@@ -1,0 +1,21 @@
+{
+  "name": "node_js_file_manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scratchor/node_js_file_manager.git"
+  },
+  "keywords": ["nodejs", "file manager"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scratchor/node_js_file_manager/issues"
+  },
+  "homepage": "https://github.com/scratchor/node_js_file_manager#readme"
+}
